@@ -17,7 +17,7 @@ I'm a **Software Engineer at BNY** with a passion for building software that's s
 
 Professionally, I work on **enterprise reporting systems**, **ETL pipelines**, and **data transformation workflows** using **T-SQL**, **Snowflake**, **Azure Data Factory**, and **SQL Server**.
 
-Outside of work, I enjoy building **AI-powered applications** using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **FastAPI**, **LangChain**, and **Google Gemini** - exploring practical ways to combine modern AI with robust software engineering.
+Outside of work, I enjoy building **AI-powered applications** using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **FastAPI**, **LangChain**, and **Google Gemini APIs** - exploring practical ways to combine modern AI with robust software engineering.
 
 Whether it's an enterprise backend, a full-stack web application, or an intelligent AI assistant, I enjoy designing systems that are clean, maintainable, and built with users in mind.
 
