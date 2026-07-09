@@ -357,35 +357,13 @@ Whether I'm building backend systems, experimenting with LLM-powered application
 
 # 📈 GitHub Activity
 
-Building software is an ongoing journey. Here's a snapshot of my open-source activity and contributions.
-
----
-
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnavmaheshwari&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=arnavmaheshwari&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=arnavmaheshwari&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> *(This animation will be enabled after we configure the GitHub Actions workflow in the final step.)*
-
-<img src="https://raw.githubusercontent.com/arnavmaheshwari/arnavmaheshwari/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavmaheshwari/arnavmaheshwari/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavmaheshwari/arnavmaheshwari/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arnavmaheshwari/arnavmaheshwari/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
