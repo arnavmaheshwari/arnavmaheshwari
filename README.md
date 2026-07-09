@@ -94,7 +94,7 @@ Rather than chasing every new framework, I enjoy choosing the right technologies
 ## 🤖 AI & Machine Learning
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square)
+![Google Gemini APIs](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F61?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
