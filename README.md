@@ -60,7 +60,7 @@ Whether it's an enterprise backend, a full-stack web application, or an intellig
 
 - 🏢 **Enterprise Software Engineer** working on production reporting systems
 - 📊 Experienced in **Data Engineering**, **ETL Pipelines**, and **SQL Development**
-- 🤖 Building intelligent applications using **LLMs**, **LangChain**, and **Google Gemini**
+- 🤖 Building intelligent applications using **LLMs**, **LangChain**, and **Google Gemini APIs**
 - 🌐 Passionate about **Backend Engineering**, **Full-Stack Development**, and **AI**
 - 📚 Author of multiple research publications in **Machine Learning** and **Explainable AI**
 
