@@ -7,19 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=950&lines=Building+Enterprise+Software;Developing+AI-Powered+Applications;Engineering+Scalable+Backend+Systems;Transforming+Data+into+Insights;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br>
-
-<a href="mailto:arnavmaheshwari2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arnav-maheshwari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/arnavmaheshwari">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -57,7 +44,7 @@ Whether it's an enterprise backend, a full-stack web application, or an intellig
 
 ### 🌱 Beyond Work
 
-- Building AI-powered applications with **LangChain** and **Google Gemini**
+- Building AI-powered applications with **LangChain** and **Google Gemini APIs**
 - Exploring Retrieval-Augmented Generation (RAG) and semantic search
 - Learning scalable system design and cloud-native architectures
 - Contributing to personal projects and continuously improving engineering skills
@@ -66,52 +53,6 @@ Whether it's an enterprise backend, a full-stack web application, or an intellig
 
 </tr>
 </table>
-
----
-
-# 💼 Experience Snapshot
-
-### 🏦 Analyst  -  Client Reporting Development
-**BNY** • **Aug 2025 – Present**
-
-Designing and developing enterprise ETL pipelines, reporting workflows, and data transformation solutions that support large-scale investment reporting systems.
-
-**Core Technologies**
-
-`T-SQL` • `Snowflake` • `Azure Data Factory` • `SQL Server` • `Markit EDM` • `BMC Control-M`
-
----
-
-### 💻 Winter Intern  -  Client Reporting Development
-**BNY** • **Jan 2025 – Jun 2025**
-
-Built backend data processing solutions, SQL workflows, and automation tools while contributing to enterprise reporting platforms and DevOps improvements.
-
-**Core Technologies**
-
-`T-SQL` • `Workflow Automation` • `Serena Dimensions CM` • `Markit EDM`
-
----
-
-### ⚡ Summer Intern  -  Quantitative Modeling & Development
-**BNY** • **Jun 2024 – Aug 2024**
-
-Developed **QMD RegressView**, a full-stack application for regression execution, result comparison, and automated reporting.
-
-**Core Technologies**
-
-`React` • `.NET (Dapper)` • `SQL Server` • `Material UI`
-
----
-
-### 🤖 Machine Learning Intern
-**IFFCO Tokio General Insurance** • **Aug 2023 – Sep 2023**
-
-Developed a machine learning model to identify health insurance cross-sell opportunities and built data preprocessing pipelines, including Aadhaar data masking for privacy compliance.
-
-**Core Technologies**
-
-`Python` • `Pandas` • `NumPy` • `scikit-learn` • `Matplotlib` • `Plotly`
 
 ---
 
@@ -198,11 +139,11 @@ Rather than chasing every new framework, I enjoy choosing the right technologies
 
 ---
 
-> *"The best technology stack isn't the biggest one—it's the one that solves the problem with clarity, reliability, and maintainability."*
+> *"The best technology stack isn't the biggest one - it's the one that solves the problem with clarity, reliability, and maintainability."*
 
 ## 🚀 Featured Engineering Work
 
-I like building software that solves real problems—whether that means classifying enterprise logs, retrieving knowledge from documents, or shipping full-stack business applications.
+I like building software that solves real problems - whether that means classifying enterprise logs, retrieving knowledge from documents, or shipping full-stack business applications.
 
 ---
 
@@ -278,44 +219,6 @@ A full-stack CRUD application for employee records built with a layered backend 
 - Practical full-stack implementation with backend and frontend separation
 
 [Repository](https://github.com/arnavmaheshwari/Employee-Manager-Application)
-
-# 🏆 Recognition & Publications
-
-This section highlights milestones that have shaped my journey as an engineer—from academic achievements to research contributions focused on Artificial Intelligence and Machine Learning.
-
----
-
-## 🏅 Recognition
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💼 Professional
-
-- 🏢 **Software Engineer (Analyst)** at **BNY**
-- 🚀 Successfully progressed from **Summer Intern → Winter Intern → Full-time Analyst**
-- 📈 Building enterprise reporting platforms, ETL pipelines, and backend data solutions
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Certifications
-
-- ☁️ **Microsoft Certified: Azure Fundamentals**
-- 🌲 **NPTEL:** Forests and their Management
-- 💡 **NPTEL:** Entrepreneurship
-- 🐍 **NPTEL:** The Joy of Computing Using Python
-- 🔐 Networking & Security Architecture with VMware NSX
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -415,7 +318,7 @@ If you'd like to discuss **software engineering**, **backend development**, **AI
 
 > **"Build software that solves real problems, write code that's easy to maintain, and never stop learning."**
 
-⭐ If you found one of my projects interesting, consider leaving a star—it helps others discover my work and motivates me to keep building.
+⭐ If you found one of my projects interesting, consider leaving a star - it helps others discover my work and motivates me to keep building.
 
 Thanks for visiting, and happy coding! 🚀
 
