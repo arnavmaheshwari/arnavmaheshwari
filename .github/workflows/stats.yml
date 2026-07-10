@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=arnavmaheshwari&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs&hide_rank=true
+          options: username=arnavmaheshwari&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs,stars&hide_rank=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=arnavmaheshwari&layout=compact&theme=tokyonight&hide_border=true
+          options: username=arnavmaheshwari&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter notebook
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
