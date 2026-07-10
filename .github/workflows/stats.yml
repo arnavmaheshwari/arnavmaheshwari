@@ -20,9 +20,10 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=arnavmaheshwari&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs,stars&hide_rank=true
+          options: username=arnavmaheshwari&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs&hide_rank=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
