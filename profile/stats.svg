@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">arnavmaheshwari's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 94</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 110</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 233.0931375137667;
+        stroke-dashoffset: 231.69255268897112;
       }
     }
   
@@ -166,7 +166,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >94</text>
+      >110</text>
     </g>
   </g>
     </svg>
