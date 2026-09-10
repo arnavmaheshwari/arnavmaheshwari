@@ -120,7 +120,7 @@ I build production-grade web applications and backend systems, then push further
 
 - **Enhancing Air Quality Index Predictions with Machine Learning and SHAP Explanations** - Accepted, IEEE ICCCNT (16th edition)
 - **A Comparison Study of Tools, Frameworks, and Libraries in NLP** - Book chapter, *Cognitive Connections* ([DOI](https://doi.org/10.52305/AAML7712))
-- **Towards Precision Medicine: ML-Enhanced Data Analysis for Heart Failure Prediction** - Article, *IJASEAT Journal* ([Article]([http://iraj.in/journal/IJASEAT//paper_detail.php?paper_id=21459&nameTowards_Precision_Medicine:_Machine_Learning-Enhanced_Data_Analysis_for_Heart_Failure_Prediction](https://iraj.in/journalNEW/IJASEAT/paperdetails/21459)))
+- **Towards Precision Medicine: ML-Enhanced Data Analysis for Heart Failure Prediction** - Article, *IJASEAT Journal* ([Article](https://iraj.in/journalNEW/IJASEAT/paperdetails/21459))
 
 ---
 
